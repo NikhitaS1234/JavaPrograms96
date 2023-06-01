@@ -1,4 +1,4 @@
-This respository contains following Java Programs written/practiced on my own during Java Training
+This respository contains following Java Programs written/practiced during Java Training
 
 1. Program to Print "Hello, World!" to the console.
 2. Program to take input Number (Example 10), from The User and Print to the console.
